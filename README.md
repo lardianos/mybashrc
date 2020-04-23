@@ -1,13 +1,6 @@
-############################
-
-lardianos   
-
 # bashrc custom file 
 
-############################
-
 first install the fonts
-
 
 # sudo apt-get install fonts-powerline
 
