@@ -25,4 +25,10 @@ at last, overwrite the bashrc file with the new bashrc file
 
 # cp mybashrc/bashrc .bashrc
 
+after install remove usless files
+
+# sudo rm -r mybashrc
+
+close and open again the terminal.
+you are ready!
 
