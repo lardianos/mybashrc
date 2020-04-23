@@ -14,7 +14,7 @@ then go in user directory
 or
 # cd /home/"username"/
 
-make buckup of the old bash rc file
+make buckup of the old bashrc file
 
 # cp .bashrc .bashrc.old
 
