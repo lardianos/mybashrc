@@ -1,6 +1,7 @@
 ############################
 
-# lardianos    
+lardianos   
+
 # bashrc custom file 
 
 ############################
