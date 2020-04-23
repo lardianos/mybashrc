@@ -1,8 +1,10 @@
-#
+############################
+
 # lardianos    
 # bashrc custom file 
 
 ############################
+
 first install the fonts
 
 
